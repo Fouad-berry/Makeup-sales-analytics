@@ -261,9 +261,8 @@ Les tests couvrent :
 
 ## Auteur
 
-Projet réalisé dans le cadre d'un portfolio Data Analyst.  
+**Fouad MOUTAIROU** — Analytics engineer
+
 Stack : Python · Pandas · SQLite · Looker Studio · pytest
 
 ---
-
-*README généré avec ❤️ pour un projet de stage/alternance Data Analyst*
